@@ -1,0 +1,4 @@
+2019-05-14T13:48:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files (x86)\Ampps\www\daophucsen.com\wp-includes\Requests\Transport\cURL.php on line 162
+
+2019-05-14T15:29:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files (x86)\Ampps\www\daophucsen.com\wp-includes\Requests\Transport\cURL.php on line 162
+
